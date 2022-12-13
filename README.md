@@ -29,7 +29,8 @@ Excel and Visual Basic editor
 ## Usage
 To analyze the stock data and output the two summary tables for each worksheet in the workbook, run this script.
 
-`Sub WorksheetLoop()
+```
+Sub WorksheetLoop()
 
 For Each ws In Worksheets
 
@@ -130,8 +131,8 @@ gv = 0
 
 Next ws
  
-End Sub`
-
+End Sub
+```
 
 ## Project Status
 Project is complete and no longer being worked on.
