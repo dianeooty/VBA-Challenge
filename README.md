@@ -59,7 +59,6 @@ ws.Range("P2").Value = "Greatest % Increase"
 ws.Range("P3").Value = "Greatest % Decrease"
 ws.Range("P4").Value = "Greatest Total Volume"
 
-
 'Grabbing the row count of column A
 Lrow = ws.Cells(Rows.Count, "A").End(xlUp).Row
 
@@ -165,12 +164,9 @@ gv = 0
 
     'Changing the column size for the two summary tables to autofit the data added
     ws.Range("J:R").Columns.AutoFit
-
 'Going to the next worksheet
 Next ws
- 
-End Sub
-'
+ End Sub'
 
 
 ## Project Status
