@@ -164,9 +164,11 @@ gv = 0
 
     'Changing the column size for the two summary tables to autofit the data added
     ws.Range("J:R").Columns.AutoFit
-'Going to the next worksheet
+    
+    'Going to the next worksheet
 Next ws
- End Sub'
+
+'End Sub'
 
 
 ## Project Status
