@@ -29,7 +29,7 @@ Excel and Visual Basic editor
 ## Usage
 To analyze the stock data and output the two summary tables for each worksheet in the workbook, run this script.
 
-'''Attribute VB_Name = "Module1"
+```Attribute VB_Name = "Module1"
 Sub WorksheetLoop()
 
 For Each ws In Worksheets
@@ -167,10 +167,9 @@ gv = 0
     
     'Going to the next worksheet
   
- Next ws
+Next ws
 
-End Sub
-'''
+End Sub```
 
 
 ## Project Status
