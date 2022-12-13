@@ -17,7 +17,7 @@ I was tasked with writing a macro that analyzes generated stock data of the year
 
 
 ## Technologies Used
-Excel
+Excel and Visual Basic editor
 
 
 ## Screenshots
