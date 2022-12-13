@@ -114,7 +114,6 @@ gv = 0
     Next i
 
     ws.Range("L:L").NumberFormat = "0.00%"
-            'Changing number format for the second summary table
     ws.Range("R2:R3").NumberFormat = "0.00%"
 
     With ws.Range("K:K")
