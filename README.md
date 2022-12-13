@@ -13,7 +13,7 @@
 
 
 ## General Information
-I was tasked with writing a scriot that analyzes generated stock data of the years 2018, 2019 and 2020. For all worksheets in the workbook, the script outputs two summary tables in each sheet(year), with conditional formatting to highlight positive changes in green and negative changes in red, all in one run.  The first summary table includes a column of the unique ticker symbols, the yearly change of the opening price to the closing price, the percent change of the opening price to the closng price and the total stock volume of that year.  The second summary includes the stock with the greatest percent increase, greatest percent decrease and greatest stock volume with the corresponding ticker symbols for each sheet(year).
+I was tasked with writing a script that will analyze the generated stock data of years 2018, 2019 and 2020. For all worksheets in the workbook, the script outputs two summary tables in each sheet(year), with conditional formatting to highlight positive changes in green and negative changes in red, all in one run.  The first summary table reflects the unique ticker symbols, the yearly change of the opening price to the closing price, the percent change of the opening price to the closng price and the total stock volume for each sheet(year).  The second summary reflects the stock with the greatest percent increase, greatest percent decrease and greatest stock volume with the corresponding ticker symbols for each sheet(year).
 
 
 ## Technologies Used
