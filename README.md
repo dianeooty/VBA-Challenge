@@ -166,9 +166,11 @@ gv = 0
     ws.Range("J:R").Columns.AutoFit
     
     'Going to the next worksheet
-Next ws
+  
+ Next ws
 
-'End Sub'
+End Sub
+'
 
 
 ## Project Status
